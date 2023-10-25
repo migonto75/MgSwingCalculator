@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MgSwingCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MgSwingCalculator_jar</output-path>
+    <root id="archive" name="MgSwingCalculator.jar">
+      <element id="module-output" name="MgSwingCalculator" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jars/ConsoleReaderLib.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
